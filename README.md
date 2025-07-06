@@ -20,7 +20,7 @@ An exploratory data analysis (EDA) project using real-world Airbnb listings data
 ### 🗽 1. Average Price by Borough
 Manhattan is significantly more expensive than other boroughs across all room types.
 
-![Avg Price per Borough](/avg_price_per_borough.png)
+![Avg Price per Borough](https://github.com/Romsh1/NYC-Airbnb-Market-Analysis/blob/main/avg_price_per_borough.png)
 
 ---
 
