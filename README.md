@@ -34,4 +34,4 @@ Entire homes cost more across all boroughs, while shared rooms are the most affo
 ### 📅 3. Review Activity Over Time
 Listings have a consistent review pattern across months, with a spike in recent years.
 
-![Review Over Time](images/review_timeline.png)
+![Review Over Time](review_timeline.png)
