@@ -20,14 +20,14 @@ An exploratory data analysis (EDA) project using real-world Airbnb listings data
 ### 🗽 1. Average Price by Borough
 Manhattan is significantly more expensive than other boroughs across all room types.
 
-![Avg Price per Borough](images/avg_price_per_borough.png)
+![Avg Price per Borough](/avg_price_per_borough.png)
 
 ---
 
 ### 🏠 2. Price Distribution by Room Type and Borough
 Entire homes cost more across all boroughs, while shared rooms are the most affordable.
 
-![Boxplot Room Type](images/price_distribution_boxplot.png)
+![Boxplot Room Type](price_distribution_boxplot.png)
 
 ---
 
